@@ -25,14 +25,3 @@ Let's connect! You can reach out to me via 📧Email-> jaisonikct@gmail.com or L
 
 Happy coding! 🚀
 
-
-
-
-
-
-
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
