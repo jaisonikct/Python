@@ -2,7 +2,7 @@
 Welcome to my Python repository! Here, you'll find various Python projects, code snippets, and exercises as I progress through my journey of mastering Python programming.
 
 # Getting Started
-If you're new to Python or programming, don't worry! This repository is designed to accommodate learners of all levels. Feel free to explore the code, run the programs, and experiment with your own variations.
+Feel free to explore the code, run the programs, and experiment with your own variations.
 
 # Contents
 1. Code Snippets: Small, focused pieces of code demonstrating specific concepts or techniques.
